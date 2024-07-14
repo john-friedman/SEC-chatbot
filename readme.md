@@ -4,5 +4,5 @@ A simple chatbot to compare SEC 10-K filings. Uses `sec-parsers` to convert 10-K
 
 To add more filings, adjust code in data_setup.py.
 
-# TODO
+### TODO
 * add langchain function to take advantage of `sec-parsers` metadata.
